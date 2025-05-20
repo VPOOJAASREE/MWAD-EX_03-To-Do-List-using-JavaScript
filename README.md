@@ -8,10 +8,10 @@ REG. NO: 212223040147
 
 ## Date:
 
-## AIM
+## AIM:
 To create a To-do Application with all features using JavaScript.
 
-## ALGORITHM
+## ALGORITHM:
 ### STEP 1
 Build the HTML structure (index.html).
 
